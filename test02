@@ -1,3 +1,6 @@
 echo "Hola desde el fichero test02"
 echo "Adios desde el fichero test02"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5b3d06b61cea3984ce3c85f8b4060db5447ba6d1
